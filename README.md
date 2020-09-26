@@ -1,6 +1,6 @@
 ### About @soulwhisper
 
-My name is Xiao Yang. I am an AI(object detection) + IoT + Hardware/Software full stack developer.
+My name is Xiao Yang. I am an AI(object detection) + IoT + Hardware/Software full stack engineer.
 
 I am using github as a knowledge base of trending projects.
 
